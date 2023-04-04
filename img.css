@@ -1,0 +1,286 @@
+.img-base
+{
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 70%;
+    border: 1px solid #727272;
+
+}
+
+.img-1{
+    background-image: url('https://image.tmdb.org/t/p/w1280/od22ftNnyag0TTxcnJhlsu3aLoU.jpg');
+}
+.img-2{
+    background-image: url('https://image.tmdb.org/t/p/w1280/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg');
+    
+}
+.img-3{
+    background-image: url('https://image.tmdb.org/t/p/w1280/3UPLFX5GFtSR61rdy1ck85lfbrV.jpg');
+}
+.img-4{
+    background-image: url('https://image.tmdb.org/t/p/w1280/vee1jyUrqUEmi5ZStWI1JJzLQJH.jpg');
+}
+
+.img-5{
+    background-image: url('https://image.tmdb.org/t/p/w1280/1UKNef590A0ZaMnxsscIcWuK1Em.jpg');
+}
+.img-6{
+    background-image: url('https://image.tmdb.org/t/p/w1280/yzNQSLlZb7NAkA4C5uADfNDJ7hm.jpg');
+
+}
+.img-7{
+    background-image: url('https://image.tmdb.org/t/p/w1280/6yaLr7Ymg5cvbtSVi5hHwBKx35I.jpg');
+
+}
+.img-8{
+    background-image: url('https://image.tmdb.org/t/p/w1280/7bOaokWMNxRkAUorl71kPoEz4lJ.jpg');
+}
+.img-9{
+    background-image: url('https://image.tmdb.org/t/p/w1280/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg');
+}
+.img-10{
+    background-image: url('https://image.tmdb.org/t/p/w1280/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg');
+}
+.img-11{
+    background-image: url('https://image.tmdb.org/t/p/w1280/nCzzQKGijVzfGFg42id7uDLOjY5.jpg');
+}
+.img-12{
+    background-image: url('https://image.tmdb.org/t/p/w1280/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg');
+}
+.img-13{
+    background-image: url('https://image.tmdb.org/t/p/w1280/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg');
+}
+.img-14{
+    background-image: url('https://image.tmdb.org/t/p/w1280/8LaVQiXBsnlo7MXCPK1nXTVARUZ.jpg');
+}
+.img-15{
+    background-image: url('https://image.tmdb.org/t/p/w1280/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg');
+}
+.img-16{
+    background-image: url('https://image.tmdb.org/t/p/w1280/7lTfTZ8CDfXw09eAv3OOvsbCVgs.jpg');
+}
+.img-17{
+    background-image: url('https://image.tmdb.org/t/p/w1280/f6l9rghSHORkWLurUGJhaKAiyjY.jpg');
+}
+.img-18{
+    background-image: url('https://image.tmdb.org/t/p/w1280/o4gwFcm6qRgnC9Gff4giy0POHdF.jpg');
+}
+.img-19{
+    background-image: url('https://image.tmdb.org/t/p/w1280/1ViUIV1rf0WZQte0hHh74DWFLeW.jpg');
+}
+.img-20{
+    background-image: url('https://image.tmdb.org/t/p/w1280/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg');
+}
+.img-21{
+    background-image: url('https://image.tmdb.org/t/p/w1280/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg');
+}
+.img-22{
+    background-image: url('https://image.tmdb.org/t/p/w1280/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg');
+}
+.img-23{
+    background-image: url('https://image.tmdb.org/t/p/w1280/l1uyqzfoLnfP3JC5WBY3WuU4nbZ.jpg');
+}
+
+.img-24{
+    background-image: url('https://image.tmdb.org/t/p/w1280/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg');
+}
+.img-25{
+    background-image: url('https://image.tmdb.org/t/p/w1280/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg');
+}
+.img-26{
+    background-image: url('https://image.tmdb.org/t/p/w1280/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg');
+}
+.img-27{
+    background-image: url('https://image.tmdb.org/t/p/w1280/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg');
+}
+.img-28{
+    background-image: url('https://image.tmdb.org/t/p/w1280/fGQAO4RgUzspO7L4u5KXirIn34s.jpg');
+}
+.img-29{
+    background-image: url('https://image.tmdb.org/t/p/w1280/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg');
+}
+.img-30{
+    background-image: url('https://image.tmdb.org/t/p/w1280/lxhsdC8wuGgQf0gKCt8wyHHxGcQ.jpg');
+}
+
+.img-31{
+    background-image: url('https://image.tmdb.org/t/p/w1280/ggTTUXZg7trvAhsVj3eyd65bAnh.jpg');
+}
+
+.img-32{
+    background-image: url('https://image.tmdb.org/t/p/w1280/yB5v6wRhIoZxlDvCFFCQhUNezDY.jpg');
+}
+
+.img-33{
+    background-image: url('https://image.tmdb.org/t/p/w1280/RTt4lgyTDI8JHMGbZGDDbcZmkM.jpg');
+}
+
+.img-34{
+    background-image: url('https://image.tmdb.org/t/p/w1280/hv29eb8g7iCDr0WgAcDdwZinuoY.jpg');
+}
+
+.img-35{
+    background-image: url('');
+}
+
+.img-36{
+    background-image: url('');
+}
+
+.img-37{
+    background-image: url('');
+}
+.img-38{
+    background-image: url('');
+}
+.img-39{
+    background-image: url('');
+}
+.img-40{
+    background-image: url('');
+}
+.img-41{
+    background-image: url('');
+}
+.img-42{
+    background-image: url('');
+}
+.img-43{
+    background-image: url('');
+}
+.img-44{
+    background-image: url('');
+}
+.img-45{
+    background-image: url('');
+}
+.img-46{
+    background-image: url('');
+}
+.img-46{
+    background-image: url('');
+}
+.img-47{
+    background-image: url('');
+}
+.img-48{
+    background-image: url('');
+}
+.img-49{
+    background-image: url('');
+}
+.img-50{
+    background-image: url('');
+}
+.img-51{
+    background-image: url('');
+}
+.img-52{
+    background-image: url('');
+}
+.img-53{
+    background-image: url('');
+}
+.img-54{
+    background-image: url('');
+}
+.img-55{
+    background-image: url('');
+}
+.img-56{
+    background-image: url('');
+}
+.img-57{
+    background-image: url('');
+}
+.img-58{
+    background-image: url('');
+}
+.img-59{
+    background-image: url('');
+}
+.img-60{
+    background-image: url('');
+}
+.img-61{
+    background-image: url('');
+}
+.img-62{
+    background-image: url('');
+}
+.img-63{
+    background-image: url('');
+}
+.img-64{
+    background-image: url('');
+}
+.img-65{
+    background-image: url('');
+}
+.img-66{
+    background-image: url('');
+}
+.img-67{
+    background-image: url('');
+}
+.img-68{
+    background-image: url('');
+}
+.img-69{
+    background-image: url('');
+}
+.img-70{
+    background-image: url('');
+}
+.img-71{
+    background-image: url('');
+}
+.img-72{
+    background-image: url('');
+}
+.img-73{
+    background-image: url('');
+}
+.img-74{
+    background-image: url('');
+}
+.img-75{
+    background-image: url('');
+}
+.img-76{
+    background-image: url('');
+}
+.img-77{
+    background-image: url('');
+}
+.img-78{
+    background-image: url('');
+}
+.img-79{
+    background-image: url('');
+}
+.img-80{
+    background-image: url('');
+}
+.img-81{
+    background-image: url('');
+}
+.img-82{
+    background-image: url('');
+}
+.img-83{
+    background-image: url('');
+}
+.img-84{
+    background-image: url('');
+}
+.img-85{
+    background-image: url('');
+}
+.img-86{
+    background-image: url('');
+}
+.img-87{
+    background-image: url('');
+}
