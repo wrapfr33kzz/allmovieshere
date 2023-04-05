@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
 *{
     padding: 0;
     margin: 0;
@@ -17,19 +20,26 @@ body{
     flex-wrap: wrap;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    background-color: black;
 }
 
 .cards{
+    margin: 5px;
     height: 400px;
     width: 220px ;
-    background-color: aqua;
     border-radius: 4px;
     margin-top: 10px;
+    background-color: aqua;
+    
 
 
 }
-
+.tile{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    opacity: 90%;
+}
 
 
 
@@ -67,3 +77,24 @@ details{
     background: #2d2020ca;
     background-color: azure;
 }
+footer{
+    height: 170px;
+    width: 100%;
+    background-color: #171717;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+footer h2{
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+
+@media only screen and (max-width: 600px) {
+    
+
+  }
+  
